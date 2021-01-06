@@ -2,7 +2,7 @@
 https://glacial-dawn-15109.herokuapp.com/
 
 ## ScreenShoot
-<img src="Screenshot_1" />
+<img src="Screenshot_1.jpg" alt="screenshoot" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
